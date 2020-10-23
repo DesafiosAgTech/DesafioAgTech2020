@@ -139,7 +139,7 @@ La calificación de la competencia se logra con el resultado de la clasificació
 
 En el tablero se puede ver la evaluación de la solución propuesta en una muestra del set de validación. Esta muestra puede variar durante la competencia. El total del conjunto de datos de validación se reserva hasta el final de la competencia.
 
-Las predicciones se deben submitear utilizando un archivo CSV **sin encabezado** conteniendo en la primer columna el id global (GlobalId) del punto geográfico del dataset de test y en la segunda columna la clasificación del cultivo (CultivoId) correspondiente a punto geográfico. Puede guiarse con el archivo [first\_submit](resultado/first_submit.csv) para orientarse. A continuación, se muestran tres filas de un archivo de predicciones típico:
+Las predicciones se deben submitear utilizando un archivo CSV **sin encabezado** conteniendo en la primer columna el id global (GlobalId) del punto geográfico del dataset de test y en la segunda columna la clasificación del cultivo (CultivoId) correspondiente a punto geográfico. Puede guiarse con el archivo [first\_submit](resultado/first_submit.csv) para orientarse. A continuación, se muestran dos filas de un archivo de predicciones típico:
 
 GlobalId, CultivoId
 
