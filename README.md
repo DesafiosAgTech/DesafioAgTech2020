@@ -67,7 +67,7 @@ Lás imágenes satelitales a utilizarse pueden ser obtenidas de diversas fuentes
 
 Algunas recomendaciones:
 
--   El satétlite recomendado es el Sentinel o Landsat 7 u 9.
+-   El satétlite recomendado es el Sentinel o Landsat 7 u 8.
 
 -   Las fechas para las imágenes conviene filtrarlas por los períodos críticos de cada cultivo. Estos están explicados dentro de la descripción del dataset.
 
