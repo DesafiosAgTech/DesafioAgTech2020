@@ -46,7 +46,7 @@ Habrá premio a la mejor presentación y otros premios sorpresa que se irán anu
 
 ### Foro
 
--   **Slack**, para compartir con otros participantes y despejar dudas: [¡ir a slack!](https://join.slack.com/t/desafios-agtech/shared_invite/zt-i2tjq3v8-V9EtjUsk6F5eTsYSPaJdzg)
+-   **Slack**, para compartir con otros participantes y despejar dudas: [¡ir a slack!](https://join.slack.com/t/desafios-agtech/shared_invite/zt-iu7s07km-slaD~P0OPlhHjr6OgaDf3Q)
 
 -   **Winn**, para registrarte en los webinars y seguir las novedades: [¡sumarme!](https://bcrwinn.app.link/rw18caVjKab)
 
