@@ -119,6 +119,8 @@ Las columnas están organizadas de la siguiente manera:
 
 #### Tipos de cultivos
 
+El listado completo de las clases a clasificarse puede encontrarse en el archivo de [Etiquetas.csv](dataset/Etiquetas.csv). La explicación de los más relevantes se expone a continuación:
+
 -   **Soja de primera (S1):** cultivo de soja sembrado sobre barbecho del año anterior.
 
 -   **Soja de segunda (S2):** cultivo de soja sembrado detrás de un cultivo antecesor con fin comercial durante la misma campaña agrícola, por ejemplo: Trigo/Soja 2.
@@ -139,7 +141,7 @@ La calificación de la competencia se logra con el resultado de la clasificació
 
 En el tablero se puede ver la evaluación de la solución propuesta en una muestra del set de validación. Esta muestra puede variar durante la competencia. El total del conjunto de datos de validación se reserva hasta el final de la competencia.
 
-Las predicciones se deben submitear utilizando un archivo CSV **sin encabezado** conteniendo en la primer columna el id global (GlobalId) del punto geográfico del dataset de test y en la segunda columna la clasificación del cultivo (CultivoId) correspondiente a punto geográfico. Puede guiarse con el archivo [first\_submit](resultado/first_submit.csv) para orientarse. A continuación, se muestran dos filas de un archivo de predicciones típico:
+Las predicciones se deben submitear utilizando un archivo CSV **sin encabezado** conteniendo en la primer columna el id global (GlobalId) del punto geográfico del dataset de test y en la segunda columna la clasificación del cultivo (CultivoId) correspondiente a punto geográfico. Puede guiarse con el archivo [first\_submit](resultado/first_submit.csv) para orientarse. A continuación, se muestran las primeras filas de un archivo de predicciones típico:
 
 GlobalId, CultivoId
 
