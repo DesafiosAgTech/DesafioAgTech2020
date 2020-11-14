@@ -14,7 +14,7 @@
 
 -   **Repositorio GitHub**: <https://github.com/yabellini/curso_rgee>
 
-![](../www/webinar-r.jpg){width="80%"}
+![](images/webinar-r.jpg)
 
 ## Recomendaciones para abordar el Desafio AgTech utilizando Python
 
@@ -30,7 +30,7 @@
 
 -   **Repositorio GitHub**: <https://github.com/camposalfredo/desafiosAgTech2020>
 
-![](images/webinar-python.jpg){width="80%"}
+![](images/webinar-python.jpg)
 
 ## Cómo aplicar machine learning a imágenes satelitales en la nube de AWS + participación especial Auravant
 
@@ -42,7 +42,7 @@
 
 -   **Grabación**: <https://www.youtube.com/watch?v=ybEvraFKR5Y>
 
-![](images/webinar-aws.png){width="80%"}
+![](images/webinar-aws.png)
 
 ## Clasificación supervisada con Google Earth Engine
 
@@ -54,7 +54,7 @@
 
 -   **Detalle**: La idea del webinar es describir un framework simple para clasificación supervisada utilizando como herramienta la IDE Code Editor de Google Earth Engine (GEE). Se mostrarán algunas etapas básicas para generar conocimiento sobre coberturas del suelo utilizando información proveniente de sensores remotos y verdad terrestre.
 
-![](images/webinar-gee.jpg){width="80%"}
+![](images/webinar-gee.jpg)
 
 ## Introducción a Machine Learning y la API de Keras
 
@@ -64,4 +64,4 @@
 
 -   **Fecha**: Jueves 19 de Noviembre de 2020
 
-![](images/webinar-digitalhouse.jpg){width="80%"}
+![](images/webinar-digitalhouse.jpg)
