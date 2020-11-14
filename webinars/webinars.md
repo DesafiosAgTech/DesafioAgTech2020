@@ -46,7 +46,7 @@
 
 ## Clasificación supervisada con Google Earth Engine
 
--   **Disertante**: Alfredo Campos
+-   **Disertante**: Santiago Banchero
 
 -   **Institución**: INTA
 
