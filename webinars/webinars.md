@@ -50,9 +50,13 @@
 
 -   **Institución**: INTA
 
--   **Fecha**: Lunes 16 de Noviembre de 2020
-
 -   **Detalle**: La idea del webinar es describir un framework simple para clasificación supervisada utilizando como herramienta la IDE Code Editor de Google Earth Engine (GEE). Se mostrarán algunas etapas básicas para generar conocimiento sobre coberturas del suelo utilizando información proveniente de sensores remotos y verdad terrestre.
+
+-   **Grabación**: <https://www.youtube.com/watch?v=0owpGWnoaZs>
+
+-   **Ejemplos GEE**: <https://code.earthengine.google.com/?accept_repo=users/santiagobanchero/desafios-agtech>
+
+-   **Presentación**: <https://docs.google.com/presentation/d/1bo4dnd5-yW5CM3M0zytghAtITN5Yjy8nXo_7_q1TMT4/edit?usp=sharing>
 
 ![](images/webinar-gee.jpg)
 
