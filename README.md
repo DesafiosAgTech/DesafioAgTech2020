@@ -32,15 +32,15 @@ La competencia es libre para todos los que quieran participar. Para inscribirse 
 
 ### Premios
 
--   1er puesto: 50 mil pesos
+-   1er puesto: 70 mil pesos
 
--   2do puesto: 40 mil pesos
+-   2do puesto: 50 mil pesos
 
--   3er puesto: 30 mil pesos
+-   3er puesto: 40 mil pesos
 
 -   4to puesto: 20 mil pesos
 
--   5to puesto: 10 mil pesos
+-   5to puesto: 20 mil pesos
 
 Habrá premio a la mejor presentación y otros premios sorpresa que se irán anunciando en el transcurso de la competencia.
 
